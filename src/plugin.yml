@@ -1,0 +1,4 @@
+name: ForceSingleSession
+main: me.te3.forcesinglesession.ForceSingleSession
+version: 0.1
+description: prevent kicking of other players by hijacking their nick
